@@ -1,11 +1,12 @@
 {application, erncryptor,
  [
   {description, "Erlang RNCryptor"},
-  {vsn, "1"},
+  {vsn, "3.0.0"},
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
+                  stdlib,
+		  crypto
                  ]},
   {env, []}
  ]}.
