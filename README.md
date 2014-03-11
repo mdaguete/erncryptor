@@ -9,11 +9,7 @@ The library passes all the vector tests for v3 version.
 
 ## Usage example:
 
-
-1. Clone the repository
-2. Compile the code with `make`
-3. Test the library with `make test`
-4. Fire up a erlang console with `make console`:
+Clone the repository. Compile the code with `make`.Test the library with `make test`.Fire up an erlang console with `make console`
 
     Eshell V5.10.4  (abort with ^G)
     1> Password = <<"P@ssw0rd!">>.
